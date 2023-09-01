@@ -1,4 +1,4 @@
-<svg width="632.4px" height="205.8px" class="w-[98px] md:w-[344px] h-full" viewBox="0 0 632.4 205.8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="632.4px" height="205.8px" class="w-[150px] md:w-[344px] h-full" viewBox="0 0 632.4 205.8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Logo_Snoek_Wit" transform="translate(0, 0.5)" fill-rule="nonzero">
             <g id="Laag_2_00000059997535454300112750000010926512602781840813_" transform="translate(0, 40.2)">

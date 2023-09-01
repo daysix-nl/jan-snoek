@@ -645,9 +645,6 @@ video {
 .w-screen {
   width: 100vw;
 }
-.w-\[98px\] {
-  width: 98px;
-}
 .w-\[150px\] {
   width: 150px;
 }
@@ -660,14 +657,11 @@ video {
 .max-w-\[88px\] {
   max-width: 88px;
 }
-.max-w-\[900px\] {
-  max-width: 900px;
+.max-w-\[725px\] {
+  max-width: 725px;
 }
 .max-w-\[1129px\] {
   max-width: 1129px;
-}
-.max-w-\[725px\] {
-  max-width: 725px;
 }
 .transform {
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));

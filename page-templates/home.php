@@ -205,10 +205,10 @@ Wij werken voor zowel particulieren als bedrijven, scholen, architecten, advocat
         <div class="col-span-1 relative">
             <div class="before-after-slider" id="slider1">
                 <div class="before-image" id="before1">
-                    <img src="https://images.pexels.com/photos/3728078/pexels-photo-3728078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="before"/>
+                    <img src="/wp-content/themes/jan-snoek/img/local/voor-01.jpeg" alt="before"/>
                 </div>
                 <div class="after-image" id="after1">
-                    <img src="https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="After"/>
+                    <img src="/wp-content/themes/jan-snoek/img/local/na-01.jpeg" alt="After"/>
                 </div>
                 <div class="resizer" id="resizer1"></div>
             </div>
@@ -217,10 +217,10 @@ Wij werken voor zowel particulieren als bedrijven, scholen, architecten, advocat
         <div class="col-span-1 relative">
             <div class="before-after-slider" id="slider2">
                 <div class="before-image" id="before2">
-                    <img src="https://images.pexels.com/photos/3728078/pexels-photo-3728078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="before"/>
+                    <img src="/wp-content/themes/jan-snoek/img/local/voor-02.jpeg" alt="before"/>
                 </div>
                 <div class="after-image" id="after2">
-                    <img src="https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="After"/>
+                    <img src="/wp-content/themes/jan-snoek/img/local/na-02.jpeg" alt="After"/>
                 </div>
                 <div class="resizer" id="resizer2"></div>
             </div>

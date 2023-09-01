@@ -10,7 +10,7 @@
 
  <section class="my-8 md:my-12">
     <div class="container md:hidden">
-        <h1 class="relative z-[15] font-roboto text-30 text-[#0B1A54] mb-[40px] text-center">Schilderwerk | Binnen | Buiten | Behangen</h1>
+        <h1 class="relative z-[15] font-roboto text-30 text-[#0B1A54] mb-[40px] text-center">Voor al uw schilderwerk, binnen, buiten en behangen</h1>
     </div>
     <div class="container flex">
         <p class="max-w-[1129px] mx-auto text-center text-16 md:text-24 text-[#0B1A54] leading-[30px] font-lora font-normal">

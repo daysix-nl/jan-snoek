@@ -31,7 +31,7 @@
             <div class="pt-5 relative z-[15]">
                 <?php  include $_SERVER['DOCUMENT_ROOT'].'/wp-content/themes/jan-snoek/img/icons/logo.php'; ?>
             </div>
-            <h1 class="relative z-[15] font-roboto text-30 md:text-55 text-white mt-[150px] hidden md:flex max-w-[900px]">Voor al uw schilderwerk, binnen, buiten en behangen</h1>
+            <h1 class="relative z-[15] font-roboto text-30 md:text-55 text-white mt-[150px] hidden md:flex max-w-[725px]">Voor al uw schilderwerk, binnen, buiten & behangen</h1>
         </div>
         <img class="absolute top-0 left-0 w-screen h-full object-cover z-[5] shadow-image" src="/wp-content/themes/jan-snoek/img/local/header-01.jpeg" alt="hero-image">
         

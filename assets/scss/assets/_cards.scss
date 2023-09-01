@@ -1,0 +1,153 @@
+.team-block {
+  &.list-b-none {
+    .block-text {
+      display: none;
+    }
+  }
+  .block-text {
+    display: block;
+  }
+}
+
+.swiper {
+  .swiper-button-next-custom,
+  .swiper-button-prev-custom {
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    background-color: rgb(250 248 246);
+    backdrop-filter: blur(5px);
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    z-index: 10;
+  }
+  .swiper-button-next-custom {
+    right: 10px;
+
+    svg {
+      transform: rotate(270deg);
+    }
+  }
+  .swiper-button-prev-custom {
+    left: 10px;
+    svg {
+      transform: rotate(90deg);
+    }
+  }
+}
+
+.accordion {
+  color: #044c99;
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  transition-delay: 0.2s;
+  transition-property: border-radius, background-color, color;
+  transition-duration: 0.2s;
+
+  &:after {
+    content: url(/wp-content/themes/day-six/img/icons/arrow.svg);
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  &.no-arrow {
+    &:after {
+      content: unset;
+    }
+  }
+}
+
+.panel {
+  padding: 0 0;
+  overflow: hidden;
+  height: 0;
+  transition: height 0.2s ease-out;
+}
+
+.accordion.active {
+  transition-delay: 0s;
+  transition: 0s;
+  color: #0d869d;
+
+  &:after {
+    content: url(/wp-content/themes/day-six/img/icons/arrow.svg);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    transform: rotate(180deg);
+  }
+  &.no-arrow {
+    &:after {
+      content: unset;
+    }
+  }
+}
+
+.before-after-slider {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  border-radius: 20px;
+}
+
+.before-after-slider img {
+  width: 100%;
+  display: block;
+  max-width: unset;
+  height: unset;
+}
+
+.after-image {
+  display: block;
+}
+
+.before-image {
+  position: absolute;
+  height: 100%;
+  width: 50%;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  z-index: 2;
+}
+
+.resizer {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  z-index: 5;
+  top: 0;
+  left: 50%;
+  height: 100%;
+  width: 4px;
+  background: white;
+  /* Stop vertical scrolling on touch */
+  -ms-touch-action: pan-y;
+  touch-action: pan-y;
+}
+
+.resizer:after {
+  background: white;
+  content: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="20.895" height="33.028" viewBox="0 0 25.895 38.028"><g id="Group_1042" data-name="Group 1042" transform="translate(-8.617 1)"><line id="Line_1" data-name="Line 1" y2="36.028" transform="translate(21.564 0)" fill="none" stroke="%230b1a54" stroke-linecap="round" stroke-width="2"/><text id="_" data-name=">" transform="translate(23.512 21.25)" fill="%230b1a54" font-size="18" font-family="Helvetica"><tspan x="0" y="0">></tspan></text><text id="_2" data-name=">" transform="translate(19.617 14.778) rotate(180)" fill="%230b1a54" font-size="18" font-family="Helvetica"><tspan x="0" y="0">></tspan></text></g></svg>');
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  position: absolute;
+  margin: 0 0 0 -20px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 3px solid white;
+  padding-top: 5px;
+}

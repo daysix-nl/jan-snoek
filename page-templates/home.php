@@ -118,8 +118,15 @@ Wij werken voor zowel particulieren als bedrijven, scholen, architecten, advocat
                             <img class="w-full object-cover h-[250px]" src="/wp-content/themes/jan-snoek/img/local/onderhoud-01.jpeg" alt="">
                         </div>
                         <div class="swiper-slide relative">
-                            <img class="w-full object-cover h-[250px]" src="/wp-content/themes/jan-snoek/img/local/schilderwerk_1.png" alt="">
+                            <img class="w-full object-cover h-[250px]" src="/wp-content/themes/jan-snoek/img/local/onderhoud-02.jpeg" alt="">
                         </div>
+                        <div class="swiper-slide relative">
+                            <img class="w-full object-cover h-[250px]" src="/wp-content/themes/jan-snoek/img/local/onderhoud-03.jpeg" alt="">
+                        </div>
+                        <div class="swiper-slide relative">
+                            <img class="w-full object-cover h-[250px]" src="/wp-content/themes/jan-snoek/img/local/onderhoud-04.jpeg" alt="">
+                        </div>
+                  
                     </div>
                 <h3 class="text-white text-18 md:text-24 leading-28 font-semibold absolute bottom-3 left-4 z-10 font-roboto">Onderhoud</h3>
                 <div class="swiper-button-next-custom">

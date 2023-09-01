@@ -30,10 +30,10 @@ Wij werken voor zowel particulieren als bedrijven, scholen, architecten, advocat
             <div class="swiper mySwiper rounded-t-3xl relative">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide relative">
-                            <img class="w-full object-cover h-[250px]" src="/wp-content/themes/day-six/img/local/schilderwerk_2.png" alt="">
+                            <img class="w-full object-cover h-[250px]" src="/wp-content/themes/jan-snoek/img/local/schilderwerk_2.png" alt="">
                         </div>
                         <div class="swiper-slide relative">
-                            <img class="w-full object-cover h-[250px]" src="/wp-content/themes/day-six/img/local/schilderwerk_1.png" alt="">
+                            <img class="w-full object-cover h-[250px]" src="/wp-content/themes/jan-snoek/img/local/schilderwerk_1.png" alt="">
                         </div>
                     </div>
                 <h3 class="text-white text-18 md:text-24 leading-28 font-semibold absolute bottom-3 left-4 z-10 font-roboto">Schilderwerk</h3>
@@ -68,10 +68,10 @@ Wij werken voor zowel particulieren als bedrijven, scholen, architecten, advocat
             <div class="swiper mySwiper rounded-t-3xl relative">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide relative">
-                            <img class="w-full object-cover h-[250px]" src="/wp-content/themes/day-six/img/local/schilderwerk_2.png" alt="">
+                            <img class="w-full object-cover h-[250px]" src="/wp-content/themes/jan-snoek/img/local/schilderwerk_2.png" alt="">
                         </div>
                         <div class="swiper-slide relative">
-                            <img class="w-full object-cover h-[250px]" src="/wp-content/themes/day-six/img/local/schilderwerk_1.png" alt="">
+                            <img class="w-full object-cover h-[250px]" src="/wp-content/themes/jan-snoek/img/local/schilderwerk_1.png" alt="">
                         </div>
                     </div>
                 <h3 class="text-white text-18 md:text-24 leading-28 font-semibold absolute bottom-3 left-4 z-10 font-roboto">Wandafwerking</h3>
@@ -106,10 +106,10 @@ Wij werken voor zowel particulieren als bedrijven, scholen, architecten, advocat
             <div class="swiper mySwiper rounded-t-3xl relative">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide relative">
-                            <img class="w-full object-cover h-[250px]" src="/wp-content/themes/day-six/img/local/schilderwerk_2.png" alt="">
+                            <img class="w-full object-cover h-[250px]" src="/wp-content/themes/jan-snoek/img/local/schilderwerk_2.png" alt="">
                         </div>
                         <div class="swiper-slide relative">
-                            <img class="w-full object-cover h-[250px]" src="/wp-content/themes/day-six/img/local/schilderwerk_1.png" alt="">
+                            <img class="w-full object-cover h-[250px]" src="/wp-content/themes/jan-snoek/img/local/schilderwerk_1.png" alt="">
                         </div>
                     </div>
                 <h3 class="text-white text-18 md:text-24 leading-28 font-semibold absolute bottom-3 left-4 z-10 font-roboto">Onderhoud</h3>

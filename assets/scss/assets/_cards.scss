@@ -4,12 +4,14 @@
       display: none;
     }
   }
+
   .block-text {
     display: block;
   }
 }
 
 .swiper {
+
   .swiper-button-next-custom,
   .swiper-button-prev-custom {
     box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
@@ -27,6 +29,7 @@
     display: flex;
     z-index: 10;
   }
+
   .swiper-button-next-custom {
     right: 10px;
 
@@ -34,8 +37,10 @@
       transform: rotate(270deg);
     }
   }
+
   .swiper-button-prev-custom {
     left: 10px;
+
     svg {
       transform: rotate(90deg);
     }
@@ -54,7 +59,7 @@
   transition-duration: 0.2s;
 
   &:after {
-    content: url(/wp-content/themes/day-six/img/icons/arrow.svg);
+    content: url(/wp-content/themes/jan-snoek/img/icons/arrow.svg);
     width: 100%;
     display: flex;
     justify-content: flex-end;
@@ -80,12 +85,13 @@
   color: #0d869d;
 
   &:after {
-    content: url(/wp-content/themes/day-six/img/icons/arrow.svg);
+    content: url(/wp-content/themes/jan-snoek/img/icons/arrow.svg);
     width: 100%;
     display: flex;
     justify-content: space-between;
     transform: rotate(180deg);
   }
+
   &.no-arrow {
     &:after {
       content: unset;

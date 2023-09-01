@@ -115,7 +115,7 @@ Wij werken voor zowel particulieren als bedrijven, scholen, architecten, advocat
             <div class="swiper mySwiper rounded-t-3xl relative">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide relative">
-                            <img class="w-full object-cover h-[250px]" src="/wp-content/themes/jan-snoek/img/local/schilderwerk_2.png" alt="">
+                            <img class="w-full object-cover h-[250px]" src="/wp-content/themes/jan-snoek/img/local/onderhoud-01.jpeg" alt="">
                         </div>
                         <div class="swiper-slide relative">
                             <img class="w-full object-cover h-[250px]" src="/wp-content/themes/jan-snoek/img/local/schilderwerk_1.png" alt="">

@@ -14,7 +14,7 @@
     <section class="my-6 grid gap-4 lg:gap-0 lg:flex grid-cols-2 lg:flex-row justify-between container">
             <div class="max-w-[325px] col-span-2 md:col-span-1">
                <?php  include $_SERVER['DOCUMENT_ROOT'].'/wp-content/themes/jan-snoek/img/icons/logo-mobile.php'; ?>
-               <p class="text-[#0B1A54] text-14 md:text-16 leading-26 mt-3">Bent u opzoek naar een persoonlijk en passend advies? Neem dan contact met ons op. Dit kan door te bellen naar <a href="tel:0625398488">06-25398488</a> of ons contactformulier in te vullen.</p>
+               <p class="text-[#0B1A54] text-14 md:text-16 leading-26 mt-3">Bent u opzoek naar een persoonlijk en passend advies? Neem dan contact met ons op. Dit kan door te bellen naar <br class="hidden md:block"> <a href="tel:0625398488">06-25398488</a> of ons contactformulier in te vullen.</p>
             </div>
             <div class="space-y-2 col-span-2 md:col-span-1">
                     <h4 class="text-18 md:text-20 leading-26 text-[#0B1A54] max-w-[580px] font-roboto">Contact</h4>

@@ -838,6 +838,10 @@ video {
     margin-bottom: 60px;
   }
 
+  .md\:block {
+    display: block;
+  }
+
   .md\:flex {
     display: flex;
   }

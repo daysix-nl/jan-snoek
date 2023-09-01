@@ -14,12 +14,12 @@
     </div>
     <div class="container flex">
         <p class="max-w-[1129px] mx-auto text-center text-16 md:text-24 text-[#0B1A54] leading-[30px] font-lora font-normal">
-            Jan Snoek Schilderwerken is in 2004 als ondernemer met veel enthousiasme van start gegaan.
-Met ruim 50 jaar ervaring in het vak, staat en gaat dit bedrijf voor vakmanschap, kwaliteit en service. De wensen van de klant staan bij ons voorop. Wij zullen u adviseren waar nodig en staan garant voor een perfect eindresultaat.
-</br></br>
+            Jan Snoek Schilderwerken is in 2004 als ondernemer met veel enthousiasme van start gegaan. Met ruim 50 jaar ervaring in het vak, staat en gaat dit bedrijf voor vakmanschap, kwaliteit en service. De wensen van de klant staan bij ons voorop. Wij zullen u adviseren waar nodig en staan garant voor een perfect eindresultaat.
+<br><br>
 Wij zien schilderwerk nog als een ambachtelijk beroep waar aandacht en tijd aan besteed dient te worden. Met recht kunnen wij dan ook zeggen dat de ambacht en zorg voor het vak aan het schilderwerk is af te zien.
-</br></br>
-Wij werken voor zowel particulieren als bedrijven, scholen, architecten, advocatenkantoren en aannemersbedrijven. Kiest u ook voor kwaliteit? Neem dan contact met ons op of vraag een offerte aan via deze website.
+<br><br>
+Wij werken voor zowel particulieren als bedrijven, scholen, architecten, advocatenkantoren en aannemersbedrijven. Kiest u ook voor kwaliteit? Neem dan contact met ons op of vraag vrijblijvend een offerte aan via deze website.
+
         </p>
     </div>
  </section>
@@ -52,13 +52,14 @@ Wij werken voor zowel particulieren als bedrijven, scholen, architecten, advocat
                 <div class="border-b-[1px] last-of-type:border-b-[0px] border-[#044C99]/[0.4] ">
                     <button class="accordion text-16 leading-26 font-medium py-1 flex items-center font-roboto ">Buitenschilderwerk</button>
                     <div class="panel text-gold px-2 md:px-4 ">
-                        <p class="pb-1 text-14 leading-22 pr-2 font-lora text-black">Het binnenschilderwerk is de finishing touch van uw interieur of kantoor. Wij werken binnen met de nieuwste generaties watergedragen verven. De watergedragen verven veroorzaken geen onaangename geuren en drogen snel. Zo kan de desbetreffende ruimte snel in gebruik worden genomen. Tijdens de werkzaamheden wordt alles afgedekt voor een schoon en spatvrij eindresultaat. Machinaal schuren gebeurt met stof-afzuiging, zodat u geen last heeft van al het vrijkomende stof.</p>
+                        <p class="pb-1 text-14 leading-22 pr-2 font-lora text-black">Uw pand is een kostbaar bezit en een van de eerste dingen die daarbij opvallen is het schilderwerk. Een investering aan uw pand is dus altijd een goede investering. Goed onderhouden schilderwerk staat niet alleen mooi en verzorgd, maar straalt ook frisheid en vertrouwen uit. Een visitekaartje waar wij graag aan meewerken!
+                        <br><br><strong>Uiteraard brengen wij graag een geheel vrijblijvende en kosteloze offerte uit.</strong></p>
                     </div>
                 </div>
                 <div class="border-b-[1px] last-of-type:border-b-[0px] border-[#044C99]/[0.4] ">
-                    <button class="accordion text-16 leading-26 font-medium py-1 flex items-center font-roboto">Buitenschilderwerk</button>
+                    <button class="accordion text-16 leading-26 font-medium py-1 flex items-center font-roboto">Binnenschilderwerk</button>
                     <div class="panel text-gold px-2 md:px-4 ">
-                        <p class="pb-1 text-14 leading-22 pr-2 font-lora text-black">Het binnenschilderwerk is de finishing touch van uw interieur of kantoor. Wij werken binnen met de nieuwste generaties watergedragen verven. De watergedragen verven veroorzaken geen onaangename geuren en drogen snel. Zo kan de desbetreffende ruimte snel in gebruik worden genomen. Tijdens de werkzaamheden wordt alles afgedekt voor een schoon en spatvrij eindresultaat. Machinaal schuren gebeurt met stof-afzuiging, zodat u geen last heeft van al het vrijkomende stof.</p>
+                        <p class="pb-1 text-14 leading-22 pr-2 font-lora text-black">Het binnenschilderwerk is de finishing touch van uw interieur of kantoor. Wij werken binnen met de nieuwste generaties watergedragen verven. De watergedragen verven veroorzaken geen onaangename geuren en drogen snel. Zo kan de desbetreffende ruimte snel in gebruik worden genomen. Tijdens de werkzaamheden wordt alles afgedekt voor een schoon en spatvrij eindresultaat. Machinaal schuren gebeurt met stofafzuiging, zodat u geen last heeft van al het vrijkomende stof.</p>
                     </div>
                 </div>
             </div>
@@ -88,15 +89,23 @@ Wij werken voor zowel particulieren als bedrijven, scholen, architecten, advocat
             </div>
             <div class="px-2 py-2 md:px-4 md:py-3  rounded-b-3xl h-full bg-[#044C99]/[0.05]">
                 <div class="border-b-[1px] last-of-type:border-b-[0px] border-[#044C99]/[0.4] ">
-                    <button class="accordion text-16 leading-26 font-medium py-1 flex items-center font-roboto ">Buitenschilderwerk</button>
+                    <button class="accordion text-16 leading-26 font-medium py-1 flex items-center font-roboto">Glasweefsel</button>
                     <div class="panel text-gold px-2 md:px-4 ">
-                        <p class="pb-1 text-14 leading-22 pr-2 font-lora text-black">Het binnenschilderwerk is de finishing touch van uw interieur of kantoor. Wij werken binnen met de nieuwste generaties watergedragen verven. De watergedragen verven veroorzaken geen onaangename geuren en drogen snel. Zo kan de desbetreffende ruimte snel in gebruik worden genomen. Tijdens de werkzaamheden wordt alles afgedekt voor een schoon en spatvrij eindresultaat. Machinaal schuren gebeurt met stof-afzuiging, zodat u geen last heeft van al het vrijkomende stof.</p>
+                        <p class="pb-1 text-14 leading-22 pr-2 font-lora text-black">Glasweefselbehang is gemaakt van fijne glasvezels in plaats van papier, waar normale soorten behang van gemaakt worden. De glasvezels worden op een speciale manier geweven en geperst. Hierdoor ontstaat een fijn en heel sterk gaas. Het is in de fabriek mogelijk om verdikkingen aan te brengen waardoor er een subtiel patroon in het behang ontstaat. Voorbeelden hiervan zijn bijvoorbeeld het visgraatpatroon, het zigzagpatroon, de ruitpatroon en het weefpatroon. Glasweefselbehang is gemakkelijk te schilderen in elke gewenste kleur of kleurencombinatie, wat zorgt voor een decoratieve en totaal nieuwe sfeer.</p>
                     </div>
                 </div>
                 <div class="border-b-[1px] last-of-type:border-b-[0px] border-[#044C99]/[0.4] ">
-                    <button class="accordion text-16 leading-26 font-medium py-1 flex items-center font-roboto">Buitenschilderwerk</button>
+                    <button class="accordion text-16 leading-26 font-medium py-1 flex items-center font-roboto">Glasvlies</button>
                     <div class="panel text-gold px-2 md:px-4 ">
-                        <p class="pb-1 text-14 leading-22 pr-2 font-lora text-black">Het binnenschilderwerk is de finishing touch van uw interieur of kantoor. Wij werken binnen met de nieuwste generaties watergedragen verven. De watergedragen verven veroorzaken geen onaangename geuren en drogen snel. Zo kan de desbetreffende ruimte snel in gebruik worden genomen. Tijdens de werkzaamheden wordt alles afgedekt voor een schoon en spatvrij eindresultaat. Machinaal schuren gebeurt met stof-afzuiging, zodat u geen last heeft van al het vrijkomende stof.</p>
+                        <p class="pb-1 text-14 leading-22 pr-2 font-lora text-black">Glasvliesbehang wordt veelal gebruikt als versterking van wanden en plafonds. Net als glasweefselbehang kun je glasvliesbehang gemakkelijk in elke gewenste kleur of kleurencombinatie schilderen. Vooral voor oude plafonds met kleine scheurtjes is glasvlies de oplossing, want deze kunnen blijvend worden weggewerkt. Dit materiaal kan, net als glasweefselbehang, op vrijwel iedere ondergrond aangebracht worden. Of het nu beton, spuitgips, pleisterwerk, gipselementen, kartonplaat of houtvezelplaten is.
+                            <br><br>Het voordeel hiervan is dat het duurzaam en vochtwerend is. Daarmee is glasvliesbehang goed te gebruiken bij renovatie werkzaamheden, omdat het scheuren en barsten in wanden of plafonds overbrugt.
+                        </p>
+                    </div>
+                </div>
+                   <div class="border-b-[1px] last-of-type:border-b-[0px] border-[#044C99]/[0.4] ">
+                    <button class="accordion text-16 leading-26 font-medium py-1 flex items-center font-roboto">Behang</button>
+                    <div class="panel text-gold px-2 md:px-4 ">
+                        <p class="pb-1 text-14 leading-22 pr-2 font-lora text-black">Tegenwoordig zien we dat men weer steeds vaker gaat voor een behang in huis of op kantoor. Behang is te krijgen in de meest mooie patronen. Door het juiste behang uit te kiezen in combinatie met de kleur verf geeft behang u uw woning nog meer sfeer en stijl. Jan Snoek Schilderwerken geeft u graag een uitgebreid advies over behang, kleuren, glasweefsel, en spuitwerk voor uw wanden.</p>
                     </div>
                 </div>
             </div>
@@ -126,15 +135,9 @@ Wij werken voor zowel particulieren als bedrijven, scholen, architecten, advocat
             </div>
             <div class="px-2 py-2 md:px-4 md:py-3  rounded-b-3xl h-full bg-[#044C99]/[0.05]">
                 <div class="border-b-[1px] last-of-type:border-b-[0px] border-[#044C99]/[0.4] ">
-                    <button class="accordion text-16 leading-26 font-medium py-1 flex items-center font-roboto ">Buitenschilderwerk</button>
+                    <button class="accordion text-16 leading-26 font-medium py-1 flex items-center font-roboto ">Onderhoud</button>
                     <div class="panel text-gold px-2 md:px-4 ">
-                        <p class="pb-1 text-14 leading-22 pr-2 font-lora text-black">Het binnenschilderwerk is de finishing touch van uw interieur of kantoor. Wij werken binnen met de nieuwste generaties watergedragen verven. De watergedragen verven veroorzaken geen onaangename geuren en drogen snel. Zo kan de desbetreffende ruimte snel in gebruik worden genomen. Tijdens de werkzaamheden wordt alles afgedekt voor een schoon en spatvrij eindresultaat. Machinaal schuren gebeurt met stof-afzuiging, zodat u geen last heeft van al het vrijkomende stof.</p>
-                    </div>
-                </div>
-                <div class="border-b-[1px] last-of-type:border-b-[0px] border-[#044C99]/[0.4] ">
-                    <button class="accordion text-16 leading-26 font-medium py-1 flex items-center font-roboto">Buitenschilderwerk</button>
-                    <div class="panel text-gold px-2 md:px-4 ">
-                        <p class="pb-1 text-14 leading-22 pr-2 font-lora text-black">Het binnenschilderwerk is de finishing touch van uw interieur of kantoor. Wij werken binnen met de nieuwste generaties watergedragen verven. De watergedragen verven veroorzaken geen onaangename geuren en drogen snel. Zo kan de desbetreffende ruimte snel in gebruik worden genomen. Tijdens de werkzaamheden wordt alles afgedekt voor een schoon en spatvrij eindresultaat. Machinaal schuren gebeurt met stof-afzuiging, zodat u geen last heeft van al het vrijkomende stof.</p>
+                        <p class="pb-1 text-14 leading-22 pr-2 font-lora text-black">Samen met u kijken wij naar de onderhoudstoestand van uw pand. Is er alleen sprake van een opfrisbeurt? Of zijn er nog reparaties nodig? Moeten er oude verflagen verwijderd worden? Wilt u graag een goed kleur- en verfadvies? Aan de hand daarvan kunnen wij een professioneel advies uitbrengen.</p>
                     </div>
                 </div>
             </div>

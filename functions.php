@@ -417,7 +417,8 @@ add_filter( 'post_row_actions', 'rd_duplicate_post_link', 10, 2 );
 |
 */
 
-function restrict_login_by_ip() {
+
+function restrict_login_page_by_ip() {
     // Voeg hier je eigen IP-adres toe
     $allowed_ip = '46.144.179.137';
 
@@ -425,14 +426,15 @@ function restrict_login_by_ip() {
     $user_ip = $_SERVER['REMOTE_ADDR'];
 
     // Controleer of het huidige IP-adres overeenkomt met het toegestane IP-adres
-    if ($user_ip !== $allowed_ip) {
-        // Als het IP-adres niet overeenkomt, doorverwijzen naar de homepagina of een andere pagina
+    if ($user_ip !== $allowed_ip && strpos($_SERVER['REQUEST_URI'], '/wp-login.php') !== false) {
+        // Als het IP-adres niet overeenkomt en de gebruiker probeert in te loggen,
+        // doorverwijzen naar de homepagina of een andere pagina
         wp_redirect(home_url());
         exit;
     }
 }
 
-add_action('init', 'restrict_login_by_ip');
+add_action('init', 'restrict_login_page_by_ip');
 
 
 
